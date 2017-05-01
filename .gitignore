@@ -1,0 +1,7 @@
+**/build
+**/.gradle/*
+*.tmproj
+*.log
+*.DS_Store
+lib/*
+.idea
